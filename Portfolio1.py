@@ -5,6 +5,7 @@
 
 
 print("Hello, welcome to my portfolio :)")
+print ("Here are some practice exercises,just for practice")
 
 
 # In[34]:
